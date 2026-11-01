@@ -1,6 +1,6 @@
 {
-  "orgName": "V4S - Release Test Org", 
-  "edition": "Developer", 
+  "orgName": "V4S - Release Test Org",
+  "edition": "Developer",
   "hasSampleData": "false",
   "features": "Sites",
   "settings": {
@@ -12,6 +12,9 @@
     },
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
+    },
+    "experienceBundleSettings": {
+      "enableExperienceBundleMetadata": true
     }
   }
 }

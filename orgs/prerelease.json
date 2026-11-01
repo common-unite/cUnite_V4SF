@@ -3,7 +3,7 @@
   "edition": "Developer",
   "instance": "CS46",
   "hasSampleData": "false",
-  "features": "Sites",  
+  "features": "Sites",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
@@ -16,6 +16,9 @@
     },
     "languageSettings": {
       "enableTranslationWorkbench": true
+    },
+    "experienceBundleSettings": {
+      "enableExperienceBundleMetadata": true
     }
   }
 }

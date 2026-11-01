@@ -1,6 +1,6 @@
 {
-  "orgName": "V4S - Beta Test Org", 
-  "edition": "Developer", 
+  "orgName": "V4S - Beta Test Org",
+  "edition": "Developer",
   "hasSampleData": "false",
   "features": "Sites",
   "settings": {
@@ -9,6 +9,9 @@
     },
     "chatterSettings": {
       "enableChatter": true
+    },
+    "experienceBundleSettings": {
+      "enableExperienceBundleMetadata": true
     }
   }
 }

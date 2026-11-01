@@ -1,8 +1,8 @@
 {
-  "orgName": "V4S - Dev Workspace", 
-  "edition": "Developer", 
+  "orgName": "V4S - Dev Workspace",
+  "edition": "Developer",
   "hasSampleData": "false",
-  "features": "Sites",  
+  "features": "Sites",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
@@ -15,6 +15,9 @@
     },
     "languageSettings": {
       "enableTranslationWorkbench": true
+    },
+    "experienceBundleSettings": {
+      "enableExperienceBundleMetadata": true
     }
   }
 }

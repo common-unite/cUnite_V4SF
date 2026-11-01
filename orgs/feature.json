@@ -1,14 +1,17 @@
 {
-  "orgName": "V4S - Feature Test Org", 
-  "edition": "Developer", 
+  "orgName": "V4S - Feature Test Org",
+  "edition": "Developer",
   "hasSampleData": "false",
-  "features": "Sites",  
+  "features": "Sites",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
     },
     "chatterSettings": {
       "enableChatter": true
+    },
+    "experienceBundleSettings": {
+      "enableExperienceBundleMetadata": true
     }
   }
 }
